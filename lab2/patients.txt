@@ -1,0 +1,6 @@
+Ivan 101 Rostov 32
+Petr 102 Krasnodar 24
+Anna 103 Moscow 28
+Alex 104 Spb 41
+Maria 105 Minsk 35
+Oleg 106 Volgograd 27
