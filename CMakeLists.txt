@@ -25,3 +25,12 @@ add_executable(
         lab4/Product.cpp
         lab4/Product.h
 )
+
+add_executable(
+        lab5
+        lab5/main.cpp
+        lab5/Car.cpp
+        lab5/Car.h
+        lab5/Transport.cpp
+        lab5/Transport.h
+)
