@@ -18,3 +18,10 @@ add_executable(
         lab3/Person.cpp
         lab3/Person.h
 )
+
+add_executable(
+        lab4
+        lab4/main.cpp
+        lab4/Product.cpp
+        lab4/Product.h
+)
